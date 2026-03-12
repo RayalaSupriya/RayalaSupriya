@@ -134,7 +134,6 @@ Hands-on incident response and threat hunting. Working through real-world SOC sc
 
 ### Certifications
 - ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square) November 2025
-- ![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Modules%201-3-1a4c99?style=flat-square) Foundational Networking Knowledge
 - ![Google Cyber Security](https://img.shields.io/badge/Google-Cyber%20Security%20Professional-4285F4?style=flat-square) 2026
 
 ---
